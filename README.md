@@ -1,36 +1,34 @@
 📐 Programa Retângulo — Java
-Sistema simples para cálculo de área, perímetro e diagonal de um retângulo, usando conceitos básicos de orientação a objetos em Java.
+Sistema simples para cálculo de área, perímetro e diagonal de um retângulo, usando conceitos básicos de orientação a objetos em Java.<br/>
 
-🚀 Funcionalidades
-📏 Entrada de largura e altura do retângulo.
+🚀 Funcionalidades<br/>
+📏 Entrada de largura e altura do retângulo.<br/>
 
-📐 Cálculo da área.
+📐 Cálculo da área.<br/>
 
-➰ Cálculo do perímetro.
+➰ Cálculo do perímetro.<br/>
 
-↘️ Cálculo da diagonal.
+↘️ Cálculo da diagonal.<br/>
 
-🔄 Repetição do cálculo até o usuário optar por sair.
+🔄 Repetição do cálculo até o usuário optar por sair.<br/>
 
-🧾 Interface de console interativa com menu simples.
+🧾 Interface de console interativa com menu simples.<br/>
 
-🛠️ Tecnologias utilizadas
-Java 17+
+🛠️ Tecnologias utilizadas<br/>
+Java 17+<br/>
+IDE IntelliJ IDEA (ou qualquer outra)<br/>
+Terminal/console para interação com o usuário.<br/>
 
-IDE IntelliJ IDEA (ou qualquer outra)
+🖥️ Como usar<br/>
+Ao executar o programa, será solicitado que você informe a altura e a largura do retângulo. O sistema calculará e exibirá:<br/>
 
-Terminal/console para interação com o usuário.
+A área do retângulo.<br/>
 
-🖥️ Como usar
-Ao executar o programa, será solicitado que você informe a altura e a largura do retângulo. O sistema calculará e exibirá:
+O perímetro.<br/>
 
-A área do retângulo.
+A diagonal.<br/>
 
-O perímetro.
-
-A diagonal.
-
-Depois, o programa pergunta se deseja realizar uma nova operação.
+Depois, o programa pergunta se deseja realizar uma nova operação.<br/>
 
 📋 Exemplo de execução<br/>
 Qual a altura do retangulo: 5<br/>
